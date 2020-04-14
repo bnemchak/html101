@@ -1,5 +1,7 @@
 body {
   background-color: aquamarine;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  align-items: center;
 }
 
 .navigation {
@@ -23,8 +25,10 @@ body {
 }
 
 .card {
-  border: 3px dotted purple;
-  align: center;
+  border: 3px dashed purple;
+  width: 200px;
+  float: left;
+  margin: 5px;
 }
 
 .card img{
