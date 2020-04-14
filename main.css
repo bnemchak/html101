@@ -22,4 +22,11 @@ body {
   text-decoration: none;
 }
 
-.nav
+.card {
+  border: 3px dotted purple;
+  align: center;
+}
+
+.card img{
+  width: 150px
+}
